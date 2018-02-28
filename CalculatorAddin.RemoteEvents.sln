@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAddin.RemoteEvents", "CalculatorAddin.RemoteEvents\CalculatorAddin.RemoteEvents.csproj", "{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAddin.RemoteEventsWeb", "CalculatorAddin.RemoteEventsWeb\CalculatorAddin.RemoteEventsWeb.csproj", "{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57CFFA6-21AB-4706-A14B-6E6ADC1501B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D579E270-8FF0-461F-9B2D-E02B3494CFB5}
+	EndGlobalSection
+EndGlobal
