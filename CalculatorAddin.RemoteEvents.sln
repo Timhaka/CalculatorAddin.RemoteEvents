@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAddin.RemoteEvent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAddin.RemoteEventsWeb", "CalculatorAddin.RemoteEventsWeb\CalculatorAddin.RemoteEventsWeb.csproj", "{AC26E8DE-5E1E-4E5F-85DB-674BC6ADF156}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Install", "Install", "{E29D0CEB-78C6-4A29-AA6B-248652ED15B9}"
+	ProjectSection(SolutionItems) = preProject
+		Install\Setup.ps1 = Install\Setup.ps1
+		Setup2.ps1 = Setup2.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
